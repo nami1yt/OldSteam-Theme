@@ -232,3 +232,14 @@ background: transparent;
 ::selection{
     text-shadow: none;
 }
+
+/* Nofications =================================================================*/
+
+.DesktopUI .PP7LM0Ow1K5qkR8WElLpt, ._3qIuY9S_vXm3IQS-uE9SRS .PP7LM0Ow1K5qkR8WElLpt {
+    background: var(--GreenBG);
+    border: var(--Outset);
+}
+
+._3LKQ3S_yqrebeNLF6aeiog, ._3lRfTo8Wo3phXfE1DvK6QW, ._5wILZhsLODVwGfcJ0hKmJ, .RtSv39ZoBOySnb8XQ5hJf, .Utdt7JrpIm5JlpQmqyj1v, .Utdt7JrpIm5JlpQmqyj1v.Playing {
+    color: var(--Maize) !important;
+}
