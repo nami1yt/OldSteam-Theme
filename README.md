@@ -1,11 +1,6 @@
 <div align="center">
 
-  <h1>Infinite Hiatus</h1>
-  <p>Hi. I wanted to say thank you for enjoying the skin. It means a lot.</p>
-  <p>I started college a while ago, right around when Steam messed with all the class names. Those two things going together have made it really... really difficult for me to maintain the skin. My free-time filled high school days are behind me and I no longer have the time to keep updating and supporting OldSteam anymore. I'll try to keep it mostly functional for a while. Fixing things that break Millennium integration or make parts of Steam unusable, but this skin will slowly break as Steam changes the classes. Maybe Steam will add proper theme support someday, that's just about the only thing that could revive this skin, unfortunately.</p>
-  <p>To make a long story short, the glory days of this skin are behind it. <sup>(but it might still work!)</sup> </p>
-  <p>Thanks for downloading, using, and enjoying it.</p>
-
+<h1> This version of the theme is NOT made by <a href="https://github.com/MapleAtMorning">MapleAtMorning</a>! All Credits go to her.
   <h1>OldSteam</h1>
   The uncanny valley between modern steam and old vgui<br>
   <sub>we aren't fancy enough for a logo</sub>
